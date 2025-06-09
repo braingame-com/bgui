@@ -37,6 +37,10 @@ $ npm install
 
 We welcome improvements from both humans and AI agents!
 
+## Components
+
+- `Button` - basic cross-platform button.
+
 ## Running Locally
 
 ```bash
