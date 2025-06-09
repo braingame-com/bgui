@@ -1,0 +1,31 @@
+{
+  "name": "bgui",
+  "version": "0.1.0",
+  "description": "Brain Game UI component library",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brain-game/bgui"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-native start",
+    "build": "echo \"build script placeholder\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "ui",
+    "cross-platform"
+  ],
+  "author": "Brain Game",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-native": "^0.73.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=18"
+  }
+}
